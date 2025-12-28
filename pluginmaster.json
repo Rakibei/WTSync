@@ -15,5 +15,7 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/Rakibei/WTSync/main/images/image1.png"
         ],
+		"DownloadLinkInstall": "https://github.com/Rakibei/WTSync/releases/download/release/latest.zip",
+  		"DownloadLinkUpdate": "https://github.com/Rakibei/WTSync/releases/download/release/latest.zip"
     }
 ]
