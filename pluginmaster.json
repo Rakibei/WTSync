@@ -2,6 +2,7 @@
     {
         "Author": "Rakibei",
         "Name": "WTSync - 7.4",
+        "AssemblyVersion": "2.4.1.0",
         "Punchline": "View a list of all the Wondrous Tails duties shared by your party.",
         "Description": "WTSync keeps uses an external server to keep track of the duties in your Wondrous Tails book. When you're in a party, and other players in the party are also using WTSync, you can open a UI to see which duties everyone needs at once in one convenient list.",
         "InternalName": "WTSync74",
@@ -16,6 +17,6 @@
             "https://raw.githubusercontent.com/Rakibei/WTSync/main/images/image1.png"
         ],
 		"DownloadLinkInstall": "https://github.com/Rakibei/WTSync/releases/download/release/latest.zip",
-  		"DownloadLinkUpdate": "https://github.com/Rakibei/WTSync/releases/download/release/latest.zip"
+		"DownloadLinkUpdate": "https://github.com/Rakibei/WTSync/releases/download/release/latest.zip"
     }
 ]
